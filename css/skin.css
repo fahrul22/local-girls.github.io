@@ -1,0 +1,9 @@
+/* SKIN */
+body {
+
+background-color : #ffffff;
+
+}
+#join_free, #home_icon:hover, #search_icon:hover,#video_icon:hover,#account_icon:hover,#photo_icon:hover,#mail_icon:hover,#chat_icon:hover,.button { background-color: #e52a1f; }
+footer { border-top: 2px solid #e52a1f; }
+header { border-bottom: 2px solid #e52a1f; }
